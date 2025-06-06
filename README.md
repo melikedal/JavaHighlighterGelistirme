@@ -33,4 +33,4 @@ Projenin nasıl çalıştığını gösteren kısa videoya buradan ulaşabilirsi
 
 1. Projeyi klonlayın:
   
-    [https://github.com/kullaniciadi/proje-adi.git](https://github.com/melikedal/JavaHighlighterGelistirme.git)
+    (https://github.com/melikedal/JavaHighlighterGelistirme.git)
